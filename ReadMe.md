@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/originals/58/00/db/5800db8e54a10aa17b1008ae31c3a903.gif" alt="logo">
+<img src="https://s9.gifyu.com/images/output-onlinegiftools10c1dd7f1f5bf70f.gif" alt="logo" width="700" height="500">
 <h1 align="center">Проект Nike</h1>
 </p>
 <br>
